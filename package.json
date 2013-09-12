@@ -10,7 +10,8 @@
     },
     "dependencies": {
         "linksnip": "~=0.1",
-        "express": "~=3.4"
+        "express": "~=3.4",
+        "jsuri": "~=1.2"
     },
     "devDependencies": {
         "mocha": "~=1.12",
